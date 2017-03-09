@@ -6,3 +6,4 @@
 采用post请求 fields为前台传输数据<br>
 同样需采用aes加密 <br>
 统一返回json数据格式<br>
+MainController里面还有一些问题，没有做forward找不到的解决<br>
